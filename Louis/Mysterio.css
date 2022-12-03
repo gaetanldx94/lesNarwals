@@ -1,0 +1,25 @@
+r{
+color:red
+}
+v{
+color:green
+}
+nav{
+    float: left;
+    width: 150px;
+    border: 2px solid black;
+}
+section{
+    float: center;
+    margin-left: 160px; 
+    margin-right: 20%;
+    border: 2px solid black;
+}
+aside{
+    float: right;
+    padding: 50px;
+    border: 2px solid black;
+    position: absolute;
+    right: 0px;
+    bottom: 45%;
+}
