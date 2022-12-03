@@ -1,8 +1,9 @@
 body
 {
-     background-image: url('https://cdn.discordapp.com/attachments/1048531139998007318/1048546326058631188/Sans_titre.png');
-    background-repeat: none;
-    background-size: 100%;
+     background-image: url('https://media.discordapp.net/attachments/1048531139998007318/1048551648173228032/Ajouter_un_titre.png?width=1056&height=594');
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    background-attachment: fixed;
 }
 .menu
 {
