@@ -1,0 +1,15 @@
+header
+{
+    background-color: lightblue;
+    box-shadow: 10px 5px 5px grey;
+}
+nav
+{
+    border: solid 2px red;
+}
+footer
+{
+    background-color: yellow;
+    box-shadow: 10px 5px 5px grey;
+    color: black;
+}
